@@ -8,7 +8,7 @@ class SuperClass {
 	}
 }
 
-class SubClass extends SuperClass {
+class SubClass extends SuperClass { 
 	int k;
 
 	void showk() {
