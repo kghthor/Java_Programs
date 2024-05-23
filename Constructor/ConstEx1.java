@@ -1,6 +1,6 @@
 package Constructor;
 
-public class ConstEx1 {
+public class ConstEx1 { 
 
 	// if we won't provide any constructor compiler adds default constructor
 	// int this case, ConstEx1(){} , but if we provide any other constructor
