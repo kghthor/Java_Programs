@@ -1,6 +1,6 @@
 package ObjectOrdering;
 import java.util.Arrays;
-
+ 
 class Movie implements Comparable<Movie> {
 	private double rating;
 	private String name;
