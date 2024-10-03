@@ -1,5 +1,5 @@
 package StringPatterns;
-/*
+/* 
  *		P     M
 		 R   A 
 		  O R  
